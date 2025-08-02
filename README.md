@@ -1,4 +1,4 @@
-\# College Admission RAG Bot 🎓🤖
+\#College Admission RAG Bot 🎓🤖
 
 
 
